@@ -1,0 +1,13 @@
+Sum of Digits is Palindrome or not
+Last Updated :
+14 Apr, 2026
+Given an integer n, the task is to check whether the sum of digits of n is palindrome or not.
+Example: 
+
+Input: n = 56 
+Output: true
+Explanation: Digit sum is (5 + 6) = 11, which is a palindrome.
+
+Input: n = 51241 
+Output: false
+Explanation: Digit sum is (5 + 1 + 2 + 4 + 1) = 13, which is not a palindrome.
