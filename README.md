@@ -1,6 +1,6 @@
-# ICPC-JRC-PRACTICE
+# ICPC-PRACTICE
 
-Competitive programming practice solutions, algorithmic templates, and problem sets for ICPC and JRC prep in C++.
+Competitive programming practice solutions, algorithmic templates, and problem sets for ICPC and C prep in C++.
 
 Structure (ICPC-Preparation/):
 - template.cpp: main contest template
